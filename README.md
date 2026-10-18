@@ -1,6 +1,6 @@
 # Multi-Subnet Network Lab (Cisco Packet Tracer)
 
-A six-subnet network with 35+ devices built in Cisco Packet Tracer.
+A six-subnet network with 35+ devices built in Cisco Packet Tracer (November 2025).
 
 **Tools:** Cisco Packet Tracer · DHCP · Routing · Wireless · ACLs
 
